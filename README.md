@@ -1,0 +1,6 @@
+# SentimentAnalysisOfMovieReviews
+Sentiment Analysis of Movie Reviews by various Classification Techniques
+
+My approach for Sentiment analysis is like the approach used in “Twitter Sentiment Analysis of Film Reviews using Machine Learning Techniques”. For the training dataset, movie dataset provided by Stanford was used by me as my training dataset and then provided more movie reviews for testing. I then obtain my training text dataset with polarity of negative or positive. After this, I analyzed the efficiency of the different classifiers which I have implemented in my project. The training dataset is picked up by Stanford database and the testing data has been taken from Github project by a user called abromberg. 
+I have implemented my project in R language and I learnt some of the concepts from datascience.org. I have built the classifiers and then I have trained it with the training data. After that, we do an in-depth analysis of the polarity of each review. I have implemented the sentiment analysis by using Machine Learning Approach and using Supervised Learning classifiers like Naïve Bayes, Decision tree and kNN . I have then analyzed the efficiency, accuracy, performance and various other characteristics of the classifiers used in determining sentiment Analysis.
+
